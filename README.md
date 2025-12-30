@@ -39,6 +39,14 @@
 - 🎨 Creating user-centric interfaces with a focus on visual harmony.
 - 🏗️ Implementing modern architectures.
 
+### 📫 Connect with me
+<div align="left">
+  <a href="mailto:guidouradosilva2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
+</div>
+
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=Thats-GuilhermeDourado&color=00d1ff&style=flat-square&label=PROFILE+VIEWS" />
 </div>
+
